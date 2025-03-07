@@ -20,7 +20,7 @@ The Web Page Generator is a simple Python app using Tkinter that allows users to
 ## Polymorphism Project
 This Python project defines an Animal class with two child classes: Dog and Cat. It allows you to create instances of each animal and call their speak method, which prints a specific sound for each animal (e.g., "barks" for dogs and "meows" for cats). The project demonstrates basic object-oriented programming concepts such as inheritance and method overriding.
 
-##Inheritance Project
+## Inheritance Project
 This Python project demonstrates inheritance and method overriding with a class hierarchy. The People class serves as the parent class, with two child classes: Male and Female. Each class allows the creation of instances representing a person with specific attributes such as name, gender, job, and age. The project includes methods to describe the person and display detailed information about them.
 
 ## File Transfer Project
