@@ -11,6 +11,7 @@ A collection of basic Python projects, showcasing various concepts and technique
 * [Abstraction Project](https://github.com/Catherine-Condit/Python-Projects./blob/main/abstractionSubmission.py)
 * [Django Checkbook Project](https://github.com/Catherine-Condit/Python-Projects./tree/main/Django_Checkbook_Project)
 * [Django University Project](https://github.com/Catherine-Condit/Python-Projects./tree/main/DjangoUniversity)
+* [Nice Or Mean Game](https://github.com/Catherine-Condit/Python-Projects./tree/main/niceMeanGame)
 
 ## Web Page Generator
 The Web Page Generator is a simple Python app using Tkinter that allows users to create basic HTML pages. Users can generate a default page with a predefined message or input custom text to create a personalized web page, which opens in the default browser.
