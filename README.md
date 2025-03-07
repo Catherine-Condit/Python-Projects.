@@ -12,6 +12,7 @@ A collection of basic Python projects, showcasing various concepts and technique
 * [Django Checkbook Project](https://github.com/Catherine-Condit/Python-Projects./tree/main/Django_Checkbook_Project)
 * [Django University Project](https://github.com/Catherine-Condit/Python-Projects./tree/main/DjangoUniversity)
 * [Nice Or Mean Game](https://github.com/Catherine-Condit/Python-Projects./tree/main/niceMeanGame)
+* [Phonebook Project](https://github.com/Catherine-Condit/Python-Projects./tree/main/project_phonebook)
 
 ## Web Page Generator
 The Web Page Generator is a simple Python app using Tkinter that allows users to create basic HTML pages. Users can generate a default page with a predefined message or input custom text to create a personalized web page, which opens in the default browser.
@@ -35,10 +36,13 @@ This Python script connects to an SQLite database and creates a table to store f
 This Python script demonstrates abstract classes with an Employee base class and subclasses (Manager, Developer, Designer). Each subclass implements the abstract role() method, while inheriting methods for job title, role, and department details.
 
 ## Django Checkbook Project
-
+A Django-based digital checkbook project that allows users to manage finances by adding, updating, and deleting transactions. It provides a balance summary and tracks spending through a simple web interface. The project uses a virtual environment to manage dependencies.
 
 ## Django University Project
-
+A Django web application that allows users to manage university campuses and classes. Users can add, edit, or remove campus details (name, state, campus ID) and class information (name, number, professor) through the admin interface, accessible via /admin.
 
 ## Nice Or Mean Game
 This Python game lets players interact with strangers by choosing to be nice or mean, affecting their score. Depending on their decisions, they can win or lose the game. The game also includes sound effects for winning and losing. Players can choose to play again while keeping track of their score and name.
+
+## Project Phonebook
+This project functions as a phone book for a user. It saves a contact's name, phone number, and email address in a database and allows the user to update and delete previously stored entries.
