@@ -1,5 +1,5 @@
 # Python-Projects.
-A collection of basic Python projects, showcasing various concepts and techniques learned throughout the Python Developer course. They use various modules such as tkinter or sqlite3.
+A collection of Python projects which showcase various concepts and techniques learned throughout the Python Developer course for The Tech Academy's Software Developer Bootcamp. They use various modules such as tkinter or sqlite3.
 
 ## Projects:
 * [Web Page Generator](https://github.com/Catherine-Condit/Python-Projects./blob/main/web_page_generator.py)
